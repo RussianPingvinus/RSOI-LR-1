@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Awesomium.Windows.Forms.Unofficial</id>
+    <version>1.7.5.0</version>
+    <authors>ryangr</authors>
+    <owners>ryangr</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An unofficial NuGet package for installing Awesomium's Windows Forms dependencies</description>
+    <references>
+      <reference file="Awesomium.Core.dll" />
+      <reference file="Awesomium.Windows.Forms.dll" />
+    </references>
+  </metadata>
+</package>
